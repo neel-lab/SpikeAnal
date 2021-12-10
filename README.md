@@ -3,4 +3,5 @@
  glycosylation site mutations. But, of couse, it can be used for other site mutation quantitation also<br/>
  <br/>
  Input: .txt/.fasta file downloaded from GISAID (not provided since this requires permission from GISAID, and distribution is restricted)<br/>
+ <br/>
  Output: mutation freq. across the length of Spike protein at each a. acid position
